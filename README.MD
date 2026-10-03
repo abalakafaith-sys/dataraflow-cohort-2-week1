@@ -2,7 +2,7 @@
 
 ## WEEK ONE
 
-## This is week 1 overview. Through the module and practice task I was able to cover in good range the foundational basic of what python is and why I am studying python in the first place. Data science as a field is an interesting field, it basically revolves around how data can be obtained and manipulated to become insightful and relevant. And to do this we need the python programming language, python is mostly used for this because it is relatively easy to read, has a huge collection of libraries for working with data, and can be used for everything from cleaning a messy dataset to building machine-learning models.
+## This is week 1 overview. Through the module and practice task I was able to cover in good range the foundational basic of python and a bit into it''s relation to Data Science. Data science as a field is an interesting field, it basically revolves around how data can be obtained and manipulated to become insightful and relevant. And to do this we need the python programming language, python is mostly used for this because it is relatively easy to read, has a huge collection of libraries for working with data, and can be used for everything from cleaning a messy dataset to building machine-learning models.
 
 So, to summarize this week’s work, we have;
 
